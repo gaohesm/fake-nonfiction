@@ -7,5 +7,5 @@
    * [春天一篇小传](allaboutmemd.md)
    * [他帅气地给了我一枪](HeGaveMeAShot.md)
 * [夏好风稠](Summer2016.md)
-   * 人生整理术
+   * [人生整理术](Life.md)
 
